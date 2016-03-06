@@ -36,7 +36,8 @@
         android:layout_below="@+id/textView"
         android:layout_alignStart="@+id/textView"
         android:layout_alignEnd="@+id/textView"
-        android:singleLine="false" />
+        android:singleLine="false"
+        android:backgroundTint="#fefdfd" />
 
     <Button
         android:layout_width="wrap_content"
